@@ -1,1 +1,0 @@
-web: python manage.python mgirate && gunicorn drfsimplecrud.wsgi
